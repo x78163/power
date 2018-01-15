@@ -13,8 +13,8 @@ usePackage <- function(p)
 #---------Using the usePackage Function instead of library-----------------------------
 
 usePackage("shiny")
-usePackage("DT")
-usePackage("data.table")
+#usePackage("DT")
+#usePackage("data.table")
 
 #usePackage("crosstalk")
 #usePackage("caret")
@@ -36,7 +36,7 @@ usePackage("reshape")
 usePackage("prophet")
 #usePackage("xts")
 #usePackage("grid")
-usePackage("ggfortify")
+#usePackage("ggfortify")
 
 #--------------------------Time to get this party started!!!!!!   WOOOOOOOOOOO
 # autoplot
