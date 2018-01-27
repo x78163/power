@@ -13,7 +13,7 @@ usePackage <- function(p)
 #---------Using the usePackage Function instead of library-----------------------------
 
 usePackage("shiny")
-#usePackage("DT")
+usePackage("DT")
 #usePackage("data.table")
 
 #usePackage("crosstalk")
@@ -34,7 +34,7 @@ usePackage("lubridate")
 usePackage("forecast")
 usePackage("reshape")
 usePackage("prophet")
-#usePackage("xts")
+usePackage("xts")
 #usePackage("grid")
 #usePackage("ggfortify")
 
